@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/demo/AVLTree2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/demo/SuNumerGenerate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/jwnba24Test/BinarySearchTree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/jwnba24Test/FormatSQL.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ssdb/backup/CmOPE.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ssdb/backup/MOPE.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
